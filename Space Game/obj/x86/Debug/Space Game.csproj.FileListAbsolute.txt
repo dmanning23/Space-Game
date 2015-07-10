@@ -1,0 +1,42 @@
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Space Game.exe
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Space Game.pdb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\obj\x86\Debug\Space Game.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\obj\x86\Debug\Space Game.exe
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\obj\x86\Debug\Space Game.pdb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\EnemyEasy.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\EnemyHard.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\EnemyHardCore.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\EnemyNormal.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\HealthBar.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\LaserEnemy.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\LaserLaunch.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\LaserNormal.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\PlayerNormal.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\Rocket.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\RocketExplode.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\RocketLaunch.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\SpriteFont1.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\SpriteFont2.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\SpriteFont3.xnb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\SpriteFont4.xnb
