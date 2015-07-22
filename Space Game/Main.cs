@@ -73,7 +73,11 @@ namespace SpaceGame_Mono
             graphics.PreferredBackBufferWidth = 1200;
             graphics.PreferredBackBufferHeight = 800;
 
+<<<<<<< HEAD
             this.Window.Title = "Space-Game by fipso (Beta 0.5)";
+=======
+            this.Window.Title = "Space-Game by fipso (Beta 0.8)";
+>>>>>>> 2a07d45770ba6f3d508f1aea6630ab98423d6351
 
         }
 

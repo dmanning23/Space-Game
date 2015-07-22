@@ -40,5 +40,8 @@ C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin
 C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\SpriteFont2.xnb
 C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\SpriteFont3.xnb
 C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space Game\Space Game\bin\Windows\Debug\Content\SpriteFont4.xnb
+<<<<<<< HEAD
 C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space-Game-master\Space Game\obj\x86\Debug\Space Game.exe
 C:\Users\Philipp\Documents\Visual Studio 2013\Projects\Space-Game-master\Space Game\obj\x86\Debug\Space Game.pdb
+=======
+>>>>>>> 2a07d45770ba6f3d508f1aea6630ab98423d6351
